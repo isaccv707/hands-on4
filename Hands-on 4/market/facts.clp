@@ -1,7 +1,7 @@
 (deffacts ordenes-de-compra
    (orden-de-compra 
       (cliente-id 1) 
-      (items (smartphone (marca "apple") (modelo "iPhone15") (color "rojo") (precio 17000)) 
+      (items (smartphone (marca "apple") (modelo "iPhone16") (color "rojo") (precio 17000)) 
              (tarjeta-de-credito (banco "banamex") (tipo "visa") (fecha-expiracion "2023-12-01"))))
    (orden-de-compra 
       (cliente-id 2) 
